@@ -1,7 +1,7 @@
 from typing import Optional
 
 from fastapi import FastAPI
-
+import requests
 app = FastAPI()
 
 
